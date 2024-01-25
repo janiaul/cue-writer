@@ -4,7 +4,7 @@ Simple CLI program for writing cue sheets.
 
 ## Features
 
-Optional smart capitalizing (hanges every words first letter to upper case while leaving capitalized characters as they are).
+Optional smart capitalizing (changes every words first letter to upper case while leaving capitalized characters as they are).
 
 ## Rules
 
@@ -12,7 +12,7 @@ Currently supports file extensions of 3-4 characters (mp3, wav, flac, etc).
 
 Indexes must be written in (hours) minutes and seconds seperated by colons (h:mm:ss or mm:ss).
 
-## Example of a cue sheet:
+## Example of a cue sheet
 
 ```
 PERFORMER "Faithless"
